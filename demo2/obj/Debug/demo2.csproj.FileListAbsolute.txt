@@ -1,0 +1,121 @@
+D:\C#\demo2\demo2\bin\Debug\demo2.exe.config
+D:\C#\demo2\demo2\bin\Debug\demo2.exe
+D:\C#\demo2\demo2\bin\Debug\AForge.dll
+D:\C#\demo2\demo2\bin\Debug\AForge.Video.dll
+D:\C#\demo2\demo2\bin\Debug\M2Mqtt.Net.dll
+D:\C#\demo2\demo2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\demo2\demo2\bin\Debug\Sentry.dll
+D:\C#\demo2\demo2\bin\Debug\Serilog.dll
+D:\C#\demo2\demo2\bin\Debug\Serilog.Sinks.Debug.dll
+D:\C#\demo2\demo2\bin\Debug\Serilog.Sinks.File.dll
+D:\C#\demo2\demo2\bin\Debug\System.Buffers.dll
+D:\C#\demo2\demo2\bin\Debug\System.Collections.Immutable.dll
+D:\C#\demo2\demo2\bin\Debug\System.Drawing.Common.dll
+D:\C#\demo2\demo2\bin\Debug\System.Memory.dll
+D:\C#\demo2\demo2\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\demo2\demo2\bin\Debug\System.Reflection.Metadata.dll
+D:\C#\demo2\demo2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.Http.dll
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.Primitives.dll
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.Security.dll
+D:\C#\demo2\demo2\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#\demo2\demo2\bin\Debug\System.Text.Json.dll
+D:\C#\demo2\demo2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\demo2\demo2\bin\Debug\System.ValueTuple.dll
+D:\C#\demo2\demo2\bin\Debug\YamlDotNet.dll
+D:\C#\demo2\demo2\bin\Debug\AForge.xml
+D:\C#\demo2\demo2\bin\Debug\AForge.Video.xml
+D:\C#\demo2\demo2\bin\Debug\M2Mqtt.Net.pdb
+D:\C#\demo2\demo2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\demo2\demo2\bin\Debug\Sentry.xml
+D:\C#\demo2\demo2\bin\Debug\Serilog.xml
+D:\C#\demo2\demo2\bin\Debug\Serilog.Sinks.Debug.xml
+D:\C#\demo2\demo2\bin\Debug\Serilog.Sinks.File.pdb
+D:\C#\demo2\demo2\bin\Debug\Serilog.Sinks.File.xml
+D:\C#\demo2\demo2\bin\Debug\System.Buffers.xml
+D:\C#\demo2\demo2\bin\Debug\System.Collections.Immutable.xml
+D:\C#\demo2\demo2\bin\Debug\System.Drawing.Common.xml
+D:\C#\demo2\demo2\bin\Debug\System.Memory.xml
+D:\C#\demo2\demo2\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\demo2\demo2\bin\Debug\System.Reflection.Metadata.xml
+D:\C#\demo2\demo2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.Http.pdb
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\C#\demo2\demo2\bin\Debug\System.ServiceModel.Security.pdb
+D:\C#\demo2\demo2\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#\demo2\demo2\bin\Debug\System.Text.Json.xml
+D:\C#\demo2\demo2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\demo2\demo2\bin\Debug\System.ValueTuple.xml
+D:\C#\demo2\demo2\bin\Debug\YamlDotNet.xml
+D:\C#\demo2\demo2\obj\Debug\demo2.csproj.AssemblyReference.cache
+D:\C#\demo2\demo2\obj\Debug\demo2.csproj.SuggestedBindingRedirects.cache
+D:\C#\demo2\demo2\obj\Debug\demo2.Form1.resources
+D:\C#\demo2\demo2\obj\Debug\demo2.Properties.Resources.resources
+D:\C#\demo2\demo2\obj\Debug\demo2.csproj.GenerateResource.cache
+D:\C#\demo2\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+D:\C#\demo2\demo2\obj\Debug\demo2.csproj.CopyComplete
+D:\C#\demo2\demo2\obj\Debug\demo2.exe
+D:\C#\demo2\demo2\obj\Debug\demo2.pdb
+D:\C#\demo2\demo2\bin\Debug\demo2.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\demo2.exe.config
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\demo2.exe
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\demo2.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\AForge.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\AForge.Video.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\M2Mqtt.Net.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Sentry.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.Sinks.Debug.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.Sinks.File.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Buffers.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Collections.Immutable.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Drawing.Common.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Memory.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Numerics.Vectors.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Reflection.Metadata.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.Http.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.NetTcp.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.Primitives.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.Security.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Text.Encodings.Web.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Text.Json.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ValueTuple.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\YamlDotNet.dll
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\AForge.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\AForge.Video.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\M2Mqtt.Net.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Sentry.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.Sinks.Debug.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.Sinks.File.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\Serilog.Sinks.File.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Buffers.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Collections.Immutable.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Drawing.Common.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Memory.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Numerics.Vectors.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Reflection.Metadata.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.Http.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.NetTcp.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.Primitives.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ServiceModel.Security.pdb
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Text.Encodings.Web.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Text.Json.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\System.ValueTuple.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\bin\Debug\YamlDotNet.xml
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.csproj.AssemblyReference.cache
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.Form1.resources
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.Properties.Resources.resources
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.csproj.GenerateResource.cache
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.csproj.CopyComplete
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.exe
+E:\Old Data from Dell\1.2\C#\demo2\demo2\obj\Debug\demo2.pdb
